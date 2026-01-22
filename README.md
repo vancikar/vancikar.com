@@ -18,7 +18,7 @@ The project blends underground techno, live performance energy, and futuristic a
 - 🎧 Music & DJ Sets (SoundCloud, Mixcloud, Spotify embeds)
 - 🎟️ Tour Dates
 - 📩 Booking & Contact
-- 📰 Press Kit (EPK)
+- 📰 Press Kit - https://drive.google.com/file/d/1zh61YkAEpGPN0YPwPuaMMVAFEtZCNBTR/view
 - 🌑 Dark techno-style design
 - ⚡ Fast & lightweight static website
 
